@@ -1,0 +1,28 @@
+.header {
+      background-color: red;
+
+      h1{
+          text-decoration-color: white;
+          padding: 20px;
+          margin: 0px;
+          border: 0px;
+      }
+}
+
+nav {
+  .nav {
+        margin: 0px;
+        padding: 15px;
+        background-color: grey;
+        display: flex;
+        list-style-type: none;
+        .active {
+            padding-right: 5px;
+        }
+  }
+
+}
+
+body {
+    margin: 0px;
+}
